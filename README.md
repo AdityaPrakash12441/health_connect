@@ -17,7 +17,7 @@ AI Contraindication Checker: The bot analyzes your medical history and alerts yo
 Secure Medical History: A centralized vault for patients to store and share their clinical records with doctors securely.
 
 🛠 Tech Stack
-Frontend: [React.js,TypeScript,CSS]
+Frontend: [React.js,TypeScript,Java Script,CSS]
 
 Planned Backend: Firebase (Firestore for records, Auth for patient privacy).
 
